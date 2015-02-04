@@ -1,0 +1,43 @@
+Oct. 09, 2009
+
+NOTE: Please make sure the coordinates are sorted, 
+since parts of the algorithm depends on the data being
+pre-sorted. Most data points from UIUC database and 
+Javafoil are sorted.
+
+Oct. 08, 2009
+Please input the airfoil data in the following format:
+
+upper
+0.0 0.0(x-coordinate y-coordinate)
+.
+.
+.
+1.0 0.0
+lower
+0.0 0.0
+.
+.
+.
+1.0 0.0
+
+the airfoil coordinates does not have to be sorted.
+
+If the leading edge of the airfoil is not at 0.0 0.0
+(and the point with the smallest x value from upper
+and lower surface does not match) the first point of
+the upper surface will be used as the leading edge.
+
+Please edit the trailing edge so that it ends with 
+a point. The square trailing edge is currently not
+supported but might be added later.
+
+For the flap.dat file, please input the data as 
+follows:
+
+0.6 0.2 (x-position flap)
+
+both values are ratio to chord length of the
+airfoil, so the x-position should not exceed 1.0
+while the flap should remain small enough so that 
+the weightless assumption could be applied.

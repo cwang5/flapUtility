@@ -1,0 +1,16 @@
+solid plane-1
+ facet normal .707 0.0 .707 
+  outer loop
+    vertex 0.0 1.0 3.0
+    vertex 0.0 -1.0 3.0
+    vertex 1.0 -1.0 2.0
+  endloop
+ endfacet
+ facet normal .707 0.0 .707
+  outer loop
+    vertex 0.0 1.0 3.0
+    vertex 1.0 -1.0 2.0
+    vertex 1.0 1.0 2.0
+  endloop
+ endfacet
+endsolid plane-1

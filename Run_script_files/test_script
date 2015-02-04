@@ -1,0 +1,5 @@
+mkdir best_dir
+cd best_dir
+cp ../test_script .
+cd ..
+mkdir best_2

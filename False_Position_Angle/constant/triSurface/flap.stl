@@ -1,0 +1,16 @@
+solid flap
+	 facet normal -0.058145 0.0 0.998308
+		 outer loop
+			 vertex 0.000000 1.000000 3.000000
+			 vertex 0.000000 -1.000000 3.000000
+			 vertex 0.199662 1.000000 3.011629
+		 endloop
+	 endfacet
+	 facet normal -0.058145 0.0 0.998308
+		 outer loop
+			 vertex 0.199662 -1.000000 3.011629
+			 vertex 0.000000 -1.000000 3.000000
+			 vertex 0.199662 1.000000 3.011629
+		 endloop
+	 endfacet
+endsolid flap

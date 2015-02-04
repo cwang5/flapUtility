@@ -1,0 +1,68 @@
+solid block-back-1
+ facet normal 1 0 0
+  outer loop
+    vertex 0.0 -1.0 3.0
+    vertex 0.0 -1.0 1.0
+    vertex 0.0 1.0 3.0
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+    vertex 0.0 1.0 1.0
+    vertex 0.0 1.0 3.0
+    vertex 0.0 -1.0 1.0
+  endloop
+ endfacet
+endsolid block-back-1
+
+solid block-top
+ facet normal 0 0 1
+  outer loop
+    vertex 0.0 -1.0 3.0
+    vertex 0.0 1.0 3.0
+    vertex -2.0 -1.0 3.0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+    vertex 0.0 1.0 3.0
+    vertex -2.0 1.0 3.0
+    vertex -2.0 -1.0 3.0
+  endloop
+ endfacet
+endsolid block-top
+
+solid block-front
+ facet normal -1 0 0
+  outer loop
+    vertex -2.0 -1.0 3.0
+    vertex -2.0 1.0 3.0
+    vertex -2.0 1.0 1.0
+  endloop
+ endfacet
+ facet normal -1 0 0
+  outer loop
+    vertex -2.0 1.0 1.0
+    vertex -2.0 -1.0 1.0
+    vertex -2.0 -1.0 3.0
+  endloop
+ endfacet
+endsolid block-front
+
+
+solid block-bottom
+ facet normal 0 0 1
+  outer loop
+    vertex 0.0 -1.0 1.0
+    vertex 0.0 1.0 1.0
+    vertex -2.0 -1.0 1.0
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+    vertex 0.0 1.0 1.0
+    vertex -2.0 1.0 1.0
+    vertex -2.0 -1.0 1.0
+  endloop
+ endfacet
+endsolid block-bottom

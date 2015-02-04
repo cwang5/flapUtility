@@ -1,0 +1,480 @@
+solid airfoil-u-1
+	 facet normal 0.523426 0.0 0.852071
+		 outer loop
+			 vertex 0.969846 0.100000 -0.171010
+			 vertex 0.960473 0.100000 -0.165252
+			 vertex 0.969846 -0.100000 -0.171010
+		 endloop
+	 endfacet
+	 facet normal 0.523426 0.0 0.852071
+		 outer loop
+			 vertex 0.969846 -0.100000 -0.171010
+			 vertex 0.960473 -0.100000 -0.165252
+			 vertex 0.960473 0.100000 -0.165252
+		 endloop
+	 endfacet
+endsolid airfoil-u-1
+solid airfoil-u-2
+	 facet normal 0.517945 0.0 0.855414
+		 outer loop
+			 vertex 0.960473 0.100000 -0.165252
+			 vertex 0.932496 0.100000 -0.148312
+			 vertex 0.960473 -0.100000 -0.165252
+		 endloop
+	 endfacet
+	 facet normal 0.517945 0.0 0.855414
+		 outer loop
+			 vertex 0.960473 -0.100000 -0.165252
+			 vertex 0.932496 -0.100000 -0.148312
+			 vertex 0.932496 0.100000 -0.148312
+		 endloop
+	 endfacet
+endsolid airfoil-u-2
+solid airfoil-u-3
+	 facet normal 0.509601 0.0 0.860411
+		 outer loop
+			 vertex 0.932496 0.100000 -0.148312
+			 vertex 0.887001 0.100000 -0.121366
+			 vertex 0.932496 -0.100000 -0.148312
+		 endloop
+	 endfacet
+	 facet normal 0.509601 0.0 0.860411
+		 outer loop
+			 vertex 0.932496 -0.100000 -0.148312
+			 vertex 0.887001 -0.100000 -0.121366
+			 vertex 0.887001 0.100000 -0.121366
+		 endloop
+	 endfacet
+endsolid airfoil-u-3
+solid airfoil-u-4
+	 facet normal 0.498139 0.0 0.867097
+		 outer loop
+			 vertex 0.887001 0.100000 -0.121366
+			 vertex 0.825701 0.100000 -0.086150
+			 vertex 0.887001 -0.100000 -0.121366
+		 endloop
+	 endfacet
+	 facet normal 0.498139 0.0 0.867097
+		 outer loop
+			 vertex 0.887001 -0.100000 -0.121366
+			 vertex 0.825701 -0.100000 -0.086150
+			 vertex 0.825701 0.100000 -0.086150
+		 endloop
+	 endfacet
+endsolid airfoil-u-4
+solid airfoil-u-5
+	 facet normal 0.484187 0.0 0.874965
+		 outer loop
+			 vertex 0.825701 0.100000 -0.086150
+			 vertex 0.750988 0.100000 -0.044806
+			 vertex 0.825701 -0.100000 -0.086150
+		 endloop
+	 endfacet
+	 facet normal 0.484187 0.0 0.874965
+		 outer loop
+			 vertex 0.825701 -0.100000 -0.086150
+			 vertex 0.750988 -0.100000 -0.044806
+			 vertex 0.750988 0.100000 -0.044806
+		 endloop
+	 endfacet
+endsolid airfoil-u-5
+solid airfoil-u-6
+	 facet normal 0.467761 0.0 0.883855
+		 outer loop
+			 vertex 0.750988 0.100000 -0.044806
+			 vertex 0.665855 0.100000 0.000249
+			 vertex 0.750988 -0.100000 -0.044806
+		 endloop
+	 endfacet
+	 facet normal 0.467761 0.0 0.883855
+		 outer loop
+			 vertex 0.750988 -0.100000 -0.044806
+			 vertex 0.665855 -0.100000 0.000249
+			 vertex 0.665855 0.100000 0.000249
+		 endloop
+	 endfacet
+endsolid airfoil-u-6
+solid airfoil-u-7
+	 facet normal 0.447987 0.0 0.894040
+		 outer loop
+			 vertex 0.665855 0.100000 0.000249
+			 vertex 0.573758 0.100000 0.046397
+			 vertex 0.665855 -0.100000 0.000249
+		 endloop
+	 endfacet
+	 facet normal 0.447987 0.0 0.894040
+		 outer loop
+			 vertex 0.665855 -0.100000 0.000249
+			 vertex 0.573758 -0.100000 0.046397
+			 vertex 0.573758 0.100000 0.046397
+		 endloop
+	 endfacet
+endsolid airfoil-u-7
+solid airfoil-u-8
+	 facet normal 0.423085 0.0 0.906090
+		 outer loop
+			 vertex 0.573758 0.100000 0.046397
+			 vertex 0.478462 0.100000 0.090894
+			 vertex 0.573758 -0.100000 0.046397
+		 endloop
+	 endfacet
+	 facet normal 0.423085 0.0 0.906090
+		 outer loop
+			 vertex 0.573758 -0.100000 0.046397
+			 vertex 0.478462 -0.100000 0.090894
+			 vertex 0.478462 0.100000 0.090894
+		 endloop
+	 endfacet
+endsolid airfoil-u-8
+solid airfoil-u-9
+	 facet normal 0.390556 0.0 0.920579
+		 outer loop
+			 vertex 0.478462 0.100000 0.090894
+			 vertex 0.383887 0.100000 0.131018
+			 vertex 0.478462 -0.100000 0.090894
+		 endloop
+	 endfacet
+	 facet normal 0.390556 0.0 0.920579
+		 outer loop
+			 vertex 0.478462 -0.100000 0.090894
+			 vertex 0.383887 -0.100000 0.131018
+			 vertex 0.383887 0.100000 0.131018
+		 endloop
+	 endfacet
+endsolid airfoil-u-9
+solid airfoil-u-10
+	 facet normal 0.347313 0.0 0.937749
+		 outer loop
+			 vertex 0.383887 0.100000 0.131018
+			 vertex 0.293976 0.100000 0.164318
+			 vertex 0.383887 -0.100000 0.131018
+		 endloop
+	 endfacet
+	 facet normal 0.347313 0.0 0.937749
+		 outer loop
+			 vertex 0.383887 -0.100000 0.131018
+			 vertex 0.293976 -0.100000 0.164318
+			 vertex 0.293976 0.100000 0.164318
+		 endloop
+	 endfacet
+endsolid airfoil-u-10
+solid airfoil-u-11
+	 facet normal 0.283884 0.0 0.958859
+		 outer loop
+			 vertex 0.293976 0.100000 0.164318
+			 vertex 0.210571 0.100000 0.189011
+			 vertex 0.293976 -0.100000 0.164318
+		 endloop
+	 endfacet
+	 facet normal 0.283884 0.0 0.958859
+		 outer loop
+			 vertex 0.293976 -0.100000 0.164318
+			 vertex 0.210571 -0.100000 0.189011
+			 vertex 0.210571 0.100000 0.189011
+		 endloop
+	 endfacet
+endsolid airfoil-u-11
+solid airfoil-u-12
+	 facet normal 0.151414 0.0 0.988470
+		 outer loop
+			 vertex 0.210571 0.100000 0.189011
+			 vertex 0.136914 0.100000 0.200294
+			 vertex 0.210571 -0.100000 0.189011
+		 endloop
+	 endfacet
+	 facet normal 0.151414 0.0 0.988470
+		 outer loop
+			 vertex 0.210571 -0.100000 0.189011
+			 vertex 0.136914 -0.100000 0.200294
+			 vertex 0.136914 0.100000 0.200294
+		 endloop
+	 endfacet
+endsolid airfoil-u-12
+solid airfoil-u-13
+	 facet normal -0.024299 0.0 0.999705
+		 outer loop
+			 vertex 0.136914 0.100000 0.200294
+			 vertex 0.080352 0.100000 0.198919
+			 vertex 0.136914 -0.100000 0.200294
+		 endloop
+	 endfacet
+	 facet normal -0.024299 0.0 0.999705
+		 outer loop
+			 vertex 0.136914 -0.100000 0.200294
+			 vertex 0.080352 -0.100000 0.198919
+			 vertex 0.080352 0.100000 0.198919
+		 endloop
+	 endfacet
+endsolid airfoil-u-13
+solid airfoil-u-14
+	 facet normal -0.283219 0.0 0.959055
+		 outer loop
+			 vertex 0.080352 0.100000 0.198919
+			 vertex 0.044253 0.100000 0.188259
+			 vertex 0.080352 -0.100000 0.198919
+		 endloop
+	 endfacet
+	 facet normal -0.283219 0.0 0.959055
+		 outer loop
+			 vertex 0.080352 -0.100000 0.198919
+			 vertex 0.044253 -0.100000 0.188259
+			 vertex 0.044253 0.100000 0.188259
+		 endloop
+	 endfacet
+endsolid airfoil-u-14
+solid airfoil-u-15
+	 facet normal -0.774246 0.0 0.632885
+		 outer loop
+			 vertex 0.044253 0.100000 0.188259
+			 vertex 0.030154 0.100000 0.171010
+			 vertex 0.044253 -0.100000 0.188259
+		 endloop
+	 endfacet
+	 facet normal -0.774246 0.0 0.632885
+		 outer loop
+			 vertex 0.044253 -0.100000 0.188259
+			 vertex 0.030154 -0.100000 0.171010
+			 vertex 0.030154 0.100000 0.171010
+		 endloop
+	 endfacet
+endsolid airfoil-u-15
+solid airfoil-l-1
+	 facet normal -0.934497 0.0 -0.355971
+		 outer loop
+			 vertex 0.030154 0.100000 0.171010
+			 vertex 0.038046 0.100000 0.150291
+			 vertex 0.030154 -0.100000 0.171010
+		 endloop
+	 endfacet
+	 facet normal -0.934497 0.0 -0.355971
+		 outer loop
+			 vertex 0.030154 -0.100000 0.171010
+			 vertex 0.038046 -0.100000 0.150291
+			 vertex 0.038046 0.100000 0.150291
+		 endloop
+	 endfacet
+endsolid airfoil-l-1
+solid airfoil-l-2
+	 facet normal -0.616355 0.0 -0.787469
+		 outer loop
+			 vertex 0.038046 0.100000 0.150291
+			 vertex 0.066477 0.100000 0.128038
+			 vertex 0.038046 -0.100000 0.150291
+		 endloop
+	 endfacet
+	 facet normal -0.616355 0.0 -0.787469
+		 outer loop
+			 vertex 0.038046 -0.100000 0.150291
+			 vertex 0.066477 -0.100000 0.128038
+			 vertex 0.066477 0.100000 0.128038
+		 endloop
+	 endfacet
+endsolid airfoil-l-2
+solid airfoil-l-3
+	 facet normal -0.464388 0.0 -0.885632
+		 outer loop
+			 vertex 0.066477 0.100000 0.128038
+			 vertex 0.112809 0.100000 0.103744
+			 vertex 0.066477 -0.100000 0.128038
+		 endloop
+	 endfacet
+	 facet normal -0.464388 0.0 -0.885632
+		 outer loop
+			 vertex 0.066477 -0.100000 0.128038
+			 vertex 0.112809 -0.100000 0.103744
+			 vertex 0.112809 0.100000 0.103744
+		 endloop
+	 endfacet
+endsolid airfoil-l-3
+solid airfoil-l-4
+	 facet normal -0.409443 0.0 -0.912336
+		 outer loop
+			 vertex 0.112809 0.100000 0.103744
+			 vertex 0.173926 0.100000 0.076315
+			 vertex 0.112809 -0.100000 0.103744
+		 endloop
+	 endfacet
+	 facet normal -0.409443 0.0 -0.912336
+		 outer loop
+			 vertex 0.112809 -0.100000 0.103744
+			 vertex 0.173926 -0.100000 0.076315
+			 vertex 0.173926 0.100000 0.076315
+		 endloop
+	 endfacet
+endsolid airfoil-l-4
+solid airfoil-l-5
+	 facet normal -0.390465 0.0 -0.920618
+		 outer loop
+			 vertex 0.173926 0.100000 0.076315
+			 vertex 0.249804 0.100000 0.044133
+			 vertex 0.173926 -0.100000 0.076315
+		 endloop
+	 endfacet
+	 facet normal -0.390465 0.0 -0.920618
+		 outer loop
+			 vertex 0.173926 -0.100000 0.076315
+			 vertex 0.249804 -0.100000 0.044133
+			 vertex 0.249804 0.100000 0.044133
+		 endloop
+	 endfacet
+endsolid airfoil-l-5
+solid airfoil-l-6
+	 facet normal -0.348209 0.0 -0.937417
+		 outer loop
+			 vertex 0.249804 0.100000 0.044133
+			 vertex 0.338960 0.100000 0.011015
+			 vertex 0.249804 -0.100000 0.044133
+		 endloop
+	 endfacet
+	 facet normal -0.348209 0.0 -0.937417
+		 outer loop
+			 vertex 0.249804 -0.100000 0.044133
+			 vertex 0.338960 -0.100000 0.011015
+			 vertex 0.338960 0.100000 0.011015
+		 endloop
+	 endfacet
+endsolid airfoil-l-6
+solid airfoil-l-7
+	 facet normal -0.315675 0.0 -0.948867
+		 outer loop
+			 vertex 0.338960 0.100000 0.011015
+			 vertex 0.435681 0.100000 -0.021162
+			 vertex 0.338960 -0.100000 0.011015
+		 endloop
+	 endfacet
+	 facet normal -0.315675 0.0 -0.948867
+		 outer loop
+			 vertex 0.338960 -0.100000 0.011015
+			 vertex 0.435681 -0.100000 -0.021162
+			 vertex 0.435681 0.100000 -0.021162
+		 endloop
+	 endfacet
+endsolid airfoil-l-7
+solid airfoil-l-8
+	 facet normal -0.293886 0.0 -0.955840
+		 outer loop
+			 vertex 0.435681 0.100000 -0.021162
+			 vertex 0.535494 0.100000 -0.051851
+			 vertex 0.435681 -0.100000 -0.021162
+		 endloop
+	 endfacet
+	 facet normal -0.293886 0.0 -0.955840
+		 outer loop
+			 vertex 0.435681 -0.100000 -0.021162
+			 vertex 0.535494 -0.100000 -0.051851
+			 vertex 0.535494 0.100000 -0.051851
+		 endloop
+	 endfacet
+endsolid airfoil-l-8
+solid airfoil-l-9
+	 facet normal -0.279696 0.0 -0.960089
+		 outer loop
+			 vertex 0.535494 0.100000 -0.051851
+			 vertex 0.633790 0.100000 -0.080487
+			 vertex 0.535494 -0.100000 -0.051851
+		 endloop
+	 endfacet
+	 facet normal -0.279696 0.0 -0.960089
+		 outer loop
+			 vertex 0.535494 -0.100000 -0.051851
+			 vertex 0.633790 -0.100000 -0.080487
+			 vertex 0.633790 0.100000 -0.080487
+		 endloop
+	 endfacet
+endsolid airfoil-l-9
+solid airfoil-l-10
+	 facet normal -0.270206 0.0 -0.962803
+		 outer loop
+			 vertex 0.633790 0.100000 -0.080487
+			 vertex 0.726072 0.100000 -0.106386
+			 vertex 0.633790 -0.100000 -0.080487
+		 endloop
+	 endfacet
+	 facet normal -0.270206 0.0 -0.962803
+		 outer loop
+			 vertex 0.633790 -0.100000 -0.080487
+			 vertex 0.726072 -0.100000 -0.106386
+			 vertex 0.726072 0.100000 -0.106386
+		 endloop
+	 endfacet
+endsolid airfoil-l-10
+solid airfoil-l-11
+	 facet normal -0.263115 0.0 -0.964765
+		 outer loop
+			 vertex 0.726072 0.100000 -0.106386
+			 vertex 0.808149 0.100000 -0.128770
+			 vertex 0.726072 -0.100000 -0.106386
+		 endloop
+	 endfacet
+	 facet normal -0.263115 0.0 -0.964765
+		 outer loop
+			 vertex 0.726072 -0.100000 -0.106386
+			 vertex 0.808149 -0.100000 -0.128770
+			 vertex 0.808149 0.100000 -0.128770
+		 endloop
+	 endfacet
+endsolid airfoil-l-11
+solid airfoil-l-12
+	 facet normal -0.257063 0.0 -0.966395
+		 outer loop
+			 vertex 0.808149 0.100000 -0.128770
+			 vertex 0.876297 0.100000 -0.146898
+			 vertex 0.808149 -0.100000 -0.128770
+		 endloop
+	 endfacet
+	 facet normal -0.257063 0.0 -0.966395
+		 outer loop
+			 vertex 0.808149 -0.100000 -0.128770
+			 vertex 0.876297 -0.100000 -0.146898
+			 vertex 0.876297 0.100000 -0.146898
+		 endloop
+	 endfacet
+endsolid airfoil-l-12
+solid airfoil-l-13
+	 facet normal -0.251712 0.0 -0.967802
+		 outer loop
+			 vertex 0.876297 0.100000 -0.146898
+			 vertex 0.927394 0.100000 -0.160187
+			 vertex 0.876297 -0.100000 -0.146898
+		 endloop
+	 endfacet
+	 facet normal -0.251712 0.0 -0.967802
+		 outer loop
+			 vertex 0.876297 -0.100000 -0.146898
+			 vertex 0.927394 -0.100000 -0.160187
+			 vertex 0.927394 0.100000 -0.160187
+		 endloop
+	 endfacet
+endsolid airfoil-l-13
+solid airfoil-l-14
+	 facet normal -0.247491 0.0 -0.968890
+		 outer loop
+			 vertex 0.927394 0.100000 -0.160187
+			 vertex 0.959056 0.100000 -0.168275
+			 vertex 0.927394 -0.100000 -0.160187
+		 endloop
+	 endfacet
+	 facet normal -0.247491 0.0 -0.968890
+		 outer loop
+			 vertex 0.927394 -0.100000 -0.160187
+			 vertex 0.959056 -0.100000 -0.168275
+			 vertex 0.959056 0.100000 -0.168275
+		 endloop
+	 endfacet
+endsolid airfoil-l-14
+solid airfoil-l-15
+	 facet normal -0.245714 0.0 -0.969342
+		 outer loop
+			 vertex 0.959056 0.100000 -0.168275
+			 vertex 0.969846 0.100000 -0.171010
+			 vertex 0.959056 -0.100000 -0.168275
+		 endloop
+	 endfacet
+	 facet normal -0.245714 0.0 -0.969342
+		 outer loop
+			 vertex 0.959056 -0.100000 -0.168275
+			 vertex 0.969846 -0.100000 -0.171010
+			 vertex 0.969846 0.100000 -0.171010
+		 endloop
+	 endfacet
+endsolid airfoil-l-15

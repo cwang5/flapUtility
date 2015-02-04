@@ -1,0 +1,11 @@
+./utilities/Clean
+blockMesh > log.blockMesh
+snappyHexMesh -overwrite > log.snappyHexMesh
+decomposePar > log.decomposePar
+cd constant
+cd ..
+mpirun -np 6 simpleFoam -parallel > log.simpleFoam
+reconstructPar > log.reconstructPar
+rm -rf processor*
+./utilities/Calculate_balance
+./utilities/Angle_optimization
