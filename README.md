@@ -1,0 +1,2 @@
+# flapUtility
+This is the code written to automate steady-state flap angle optimization for passive flap on a 2D airfoil (although it should work on a 3D wing as is) in OpenFOAM, though it should work in all other versions since it does only deal with the output files. The code could be expended to account for multiple flap segments, but the interference would greatly complicate and lengthen the angle optimization/root finding process. 
